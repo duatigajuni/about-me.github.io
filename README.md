@@ -10,7 +10,7 @@
 - Check out an example portfolio <a href="https://duatigajuni.github.io/">here</a>.
 
 # Screenshots
-- Web
-- https://drive.google.com/file/d/1uWvjXUpJKi_VbT29MtQh6ip3UqZKfGBb/view?usp=sharing
+- Web Drive
+- https://drive.google.com/file/d/1GaHrqiXOT6sCgpQgUB3jCRP2eTFHREnA/view?usp=sharing
 
 
