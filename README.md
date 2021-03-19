@@ -11,7 +11,6 @@
 
 # Screenshots
 - Web
-
-![selection_037](https://drive.google.com/file/d/1_JeGvHyINdCe37WmykPKhxu507rTK-kW/view?usp=sharing)
+- https://drive.google.com/file/d/1uWvjXUpJKi_VbT29MtQh6ip3UqZKfGBb/view?usp=sharing
 
 
