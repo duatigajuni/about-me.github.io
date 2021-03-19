@@ -1,7 +1,7 @@
 # Single Portfolio-Template
 - Template Portfolio yang sangat sederhana namun sangan Responsif.
 - Layout hanya memakai dua halaman saja, yaitu halaman utama dan halaman about.me. Sangat Responsif jika dibagikan pada halaman Profil media sosial. 
-- Design sangat sederhana dengan perpaduan warna biru yang melambangkan kedamaian <a href="https://github.com/duatigajuni/about-me.github.io">here</a>. 
+- Design sangat sederhana dengan perpaduan warna biru yang melambangkan kedamaian <a href="https://duatigajuni.github.io/about-me.github.io/">here</a>. 
 
 # Getting Started [English Leagues]
 - Fork the repository to your account and clone it to your local machine.
